@@ -1,0 +1,16 @@
+SOALAN 
+1.	Apakah tujuan repository?
+Repository ialah tempat simpanan kod sumber projek. Ia menyimpan fail, sejarah perubahan,
+serta dokumentasi supaya projek dapat diurus dengan sistematik dan membolehkan kolaborasi antara pembangun.
+
+2.	Mengapakah branch penting?
+Branch membolehkan pembangunan ciri baharu atau pembaikan dilakukan secara berasingan tanpa menjejaskan kod utama. 
+
+3.	Apakah perbezaan antara commit dan pull request?
+Commit: Catatan perubahan kod yang disimpan dalam repository sebagai rekod versi projek.
+Pull Request: Permintaan untuk menggabungkan perubahan daripada satu branch ke branch utama, 
+biasanya melalui semakan pasukan sebelum diluluskan.
+
+4.	Mengapakah pembangunan perisian menggunakan GitHub
+GitHub menyediakan kawalan versi, memudahkan kolaborasi global, menyokong automasi (CI/CD), 
+mempunyai sistem semakan kod yang teratur, serta komuniti besar untuk projek sumber terbuka.
